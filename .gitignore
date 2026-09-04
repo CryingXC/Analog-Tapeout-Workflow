@@ -1,0 +1,46 @@
+# Python
+__pycache__/
+*.pyc
+.venv/
+venv/
+
+# Editor / OS
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
+
+# Simulation outputs / logs
+*.log
+*.raw
+psf/
+simulation/
+results/
+
+# Intentionally excluded IC/foundry artifacts
+*.gds
+*.gdsii
+*.oas
+*.oasis
+*.dspf
+*.spf
+*.spef
+*.scs
+*.cdl
+*.tf
+*.tech
+*.rule
+*.rules
+*.svdb
+*.pex
+*.xrc
+pdk/
+PDK/
+models/
+model/
+rule_decks/
+techfiles/
+extracted/
+netlist/
+private/
+confidential/
