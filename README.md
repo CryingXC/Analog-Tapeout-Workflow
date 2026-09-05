@@ -4,7 +4,7 @@
 
 This repository turns two real CMOS tape-out experiences into a reusable engineering workflow. It focuses on **how to think, verify, debug, and review** each stage without publishing proprietary foundry data.
 
-`Analog IC` · `Tape-out` · `DRC / LVS / PEX` · `Post-layout · `Measurement`
+`Analog IC` · `Tape-out` · `DRC / LVS / PEX` · `Post-layout` · `Measurement`
 
 ---
 
@@ -39,7 +39,7 @@ The key idea is simple:
 | Period | Project | Scope |
 |---|---|---|
 | **2024–2025** | **Two-Stage Operational Amplifier Engineering Tape-out & Test Verification** | First complete CMOS tape-out flow: transistor-level design, pre/post-layout verification, layout, physical verification, submission and test-oriented work |
-| **2025–2026** | **0.18 μm LDO Linear Regulator Tape-out** | **Project Manager** ·- 3.3 V → 1.8 V · reference · error amplifier · comparator · power MOS · design/simulation/layout verification · tape-out and measurement-oriented evaluation |
+| **2025–2026** | **0.18 μm LDO Linear Regulator Tape-out** | **Project Manager** · 3.3 V → 1.8 V · reference · error amplifier · comparator · power MOS · design/simulation/layout verification · tape-out and measurement-oriented evaluation |
 
 → [Two-stage op-amp case study](case-studies/01-two-stage-opamp.md)  
 → [0.18 μm LDO case study](case-studies/02-ldo-018um.md)
